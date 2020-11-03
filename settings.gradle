@@ -1,0 +1,3 @@
+include ':ShippingRestrcition'
+include ':app'
+rootProject.name = "SimpleSharedResource"
